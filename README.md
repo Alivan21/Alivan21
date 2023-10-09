@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfan Olivan</h1>
 <h3 align="center">Passionate Frontend Developer | React, Next.js | 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alivan21" alt="alivan21" /></a> </p>
-
 - 🌱 I’m currently learning **Next JS, Remix and React JS**
 
 - 📫 How to reach me **alfanalivan@gmail.com**
