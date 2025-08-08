@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I like write code (maybe) :D</p>
+<p align="left">I like write code (maybe) :D<br><br>🏹 Currently a frontend engineer specialist<br><br>📚 Still learning to become a better full-stack and software engineer.</p>
 
 ###
 
@@ -63,16 +63,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alivan21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
